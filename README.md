@@ -16,6 +16,8 @@ Methodology
      Convert the input snippet into a vector embedding
      Compute cosine similarity between the snippet embedding and all song embeddings
      Select the song with the highest similarity score.
+Dataset
+     The dataset file is not included in this repository due to Github file size limits.
 
 Return
      Song Time
@@ -25,4 +27,5 @@ Return
      Model Evaluation
           Random lyric snippets were tested from the dataset
           Accuracy achived: 80-85%
+
           performance depends on dataset quality
